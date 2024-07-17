@@ -1,2 +1,2 @@
-# atharva--raut.github.io/web
+# atharva-raut.github.io/web
 My webpage
