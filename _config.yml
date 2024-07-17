@@ -21,7 +21,7 @@
 title: Atharva Raut's Personal Webpage
 email: atharvavraut@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal webpage showcasing everything fromm my academics to hobbies. 
+  This is my personal webpage showcasing everything from my academics to hobbies. 
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "https://atharva-raut.github.io/web" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atharvavraut
