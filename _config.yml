@@ -28,7 +28,7 @@ twitter_username: atharvavraut
 github_username:  atharva-raut
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
